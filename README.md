@@ -9,3 +9,5 @@ Using Ubuntu, I have created a Docker image that installs the dependencies, then
 ----
 
 This repo has been developed as an example of using containerisation for benchmarking in the [TuringBench project](https://alan-turing-institute.github.io/data-science-benchmarking/) at [The Alan Turing Institute](https://www.turing.ac.uk/)
+
+The [notebook in this repo](https://github.com/edwardchalstrey1/high-performance-linpack/blob/master/HPL_benchmarks_workflow_example.ipynb) provides an example of the TuringBench benchmarking workflow.
