@@ -1,4 +1,4 @@
-[HPL - High Performance Linpack Benchmark(https://www.top500.org/project/linpack/)
+[HPL - High Performance Linpack Benchmark](https://www.top500.org/project/linpack/)
 ====
 
 Testing on multiple computing platforms with Docker
